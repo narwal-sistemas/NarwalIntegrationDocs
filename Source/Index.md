@@ -1,7 +1,7 @@
 # Teste fmallman
 
-Ok teste data = ``
+Ok teste data = `Date()`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4NjU0ODA2LC0xMDM2ODU5NjQ2LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTIwNzY4MzU3MzksOTU4NjU0ODA2LC0xMD
+M2ODU5NjQ2LDczMDk5ODExNl19
 -->
